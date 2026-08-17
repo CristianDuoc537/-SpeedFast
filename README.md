@@ -31,7 +31,7 @@ SpeedFast/
 
     Clona el repositorio desde GitHub:
 
-git clone https://github.com/CristianDuoc537/LlanquihueTour.git
+git clone https://github.com/CristianDuoc537/-SpeedFast.git
 
     Abre el proyecto en IntelliJ IDEA.
 
@@ -41,6 +41,6 @@ git clone https://github.com/CristianDuoc537/LlanquihueTour.git
 
     Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
-Repositorio GitHub: https://github.com/CristianDuoc537/LlanquihueTour.git 
+Repositorio GitHub: https://github.com/CristianDuoc537/-SpeedFast.git
 
 © Duoc UC | Escuela de Informática y Telecomunicaciones |
