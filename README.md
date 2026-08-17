@@ -25,7 +25,7 @@ SpeedFast/
 │       ├── PedidoComida.java
 │       ├── PedidoEncomienda.java
 │       └── PedidoExpress.java
-        
+```
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
