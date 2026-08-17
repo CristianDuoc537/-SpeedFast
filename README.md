@@ -13,16 +13,18 @@ SpeedFast es una aplicación desarrollada con el objetivo de aplicar los princip
 
 🧱 Estructura general del proyecto
 
+
+```text
 SpeedFast/
-└── src/
-    ├── app/
-    │   └── Main.java
-    │
-    └── model/
-        ├── Pedido.java
-        ├── PedidoComida.java
-        ├── PedidoEncomienda.java
-        └── PedidoExpress.java
+├── src/
+│   ├── app/
+│   │   └── Main.java
+│   │
+│   └── model/
+│       ├── Pedido.java
+│       ├── PedidoComida.java
+│       ├── PedidoEncomienda.java
+│       └── PedidoExpress.java
         
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
