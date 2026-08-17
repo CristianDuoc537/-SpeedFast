@@ -41,6 +41,6 @@ git clone https://github.com/CristianDuoc537/LlanquihueTour.git
 
     Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
-Repositorio GitHub: https://github.com/CristianDuoc537/LlanquihueTour.git Fecha de entrega: 08/06/2026
+Repositorio GitHub: https://github.com/CristianDuoc537/LlanquihueTour.git 
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
+© Duoc UC | Escuela de Informática y Telecomunicaciones |
