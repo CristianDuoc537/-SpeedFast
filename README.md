@@ -1,4 +1,4 @@
-# -SpeedFast
+# SpeedFast
 
 👤 Autor del proyecto
 
